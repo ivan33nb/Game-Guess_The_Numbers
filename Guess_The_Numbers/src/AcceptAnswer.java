@@ -37,9 +37,4 @@ public class AcceptAnswer {
     public int getI() {
         return i;
     }
-
-
-    public static void main(String[] args) throws Exception {
-        AcceptAnswer acceptAnswer = new AcceptAnswer();
-    }
 }
