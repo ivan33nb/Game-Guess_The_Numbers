@@ -6,7 +6,7 @@ public class CreatedNumbers {
         return i;
     }
 
-    private int createdNumbers(){
+    private int createdNumbers() {
         double b = Math.random() * 100;
         return (int) b;
     }

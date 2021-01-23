@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677f4b16-24ca-4b79-ba72-faee21cb999c" name="Default Changelist" comment="Создал класс принимающий на вход числа">
+    <list default="true" id="677f4b16-24ca-4b79-ba72-faee21cb999c" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main">
+      <change afterPath="$PROJECT_DIR$/Guess_The_Numbers/src/GameImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guess_The_Numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Guess_The_Numbers/src/AcceptAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Guess_The_Numbers/src/AcceptAnswer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.AcceptAnswer">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AcceptAnswer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AcceptAnswer" />
       <module name="Guess_The_Numbers" />
@@ -58,8 +61,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GameImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameImplementation" />
+      <module name="Guess_The_Numbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Guess_The_Numbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GameImplementation" />
         <item itemvalue="Application.AcceptAnswer" />
         <item itemvalue="Application.CreatedNumbers" />
       </list>
@@ -75,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611323811630</updated>
-      <workItem from="1611323812922" duration="6339000" />
+      <workItem from="1611323812922" duration="8322000" />
     </task>
     <task id="LOCAL-00001" summary="Создал класс генерирующий случайные числа">
       <created>1611324882373</created>
@@ -98,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611332139514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1611332237967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611332237968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создал класс генерирующий случайные числа" />
     <MESSAGE value="Создал класс принимающий на вход числа" />
-    <option name="LAST_COMMIT_MESSAGE" value="Создал класс принимающий на вход числа" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1611323980540">
@@ -129,22 +156,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611325046930" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611331911763">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611393599039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611331911763" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1611331911763">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611393599039" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1611393599038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611331911763" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1611331911762">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611393599038" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1611393599038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611331911762" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1611331911763">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611393599038" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1611393599038">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611331911763" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611393599038" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1611331553752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -161,10 +188,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1611331553752" />
-    <state x="155" y="92" key="Vcs.Push.Dialog.v2" timestamp="1611332150450">
+    <state x="155" y="92" key="Vcs.Push.Dialog.v2" timestamp="1611332245916">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="155" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611332150450" />
+    <state x="155" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611332245916" />
     <state x="65" y="0" key="new project wizard" timestamp="1611323972288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
