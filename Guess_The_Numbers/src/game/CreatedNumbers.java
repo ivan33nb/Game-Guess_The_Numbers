@@ -1,3 +1,5 @@
+package game;
+
 public class CreatedNumbers {
 
     private int i = createdNumbers();

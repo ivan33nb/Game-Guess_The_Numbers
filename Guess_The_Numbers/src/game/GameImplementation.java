@@ -1,3 +1,8 @@
+package game;
+
+import game.AcceptAnswer;
+import game.CreatedNumbers;
+
 public class GameImplementation {
     private boolean b;
 
